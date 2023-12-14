@@ -1,4 +1,4 @@
-# detect_hate_speech
+# Detect hate speech
 Purpose of this AI model is to detect the hate speech comment on social media platforms.
 Dataset for training model is from hugging faces.         
 
